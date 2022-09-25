@@ -1,0 +1,15 @@
+D:\Users\User\Desktop\Домашняя работа 9\zadacha_64\bin\Debug\net6.0\zadacha_64.exe
+D:\Users\User\Desktop\Домашняя работа 9\zadacha_64\bin\Debug\net6.0\zadacha_64.deps.json
+D:\Users\User\Desktop\Домашняя работа 9\zadacha_64\bin\Debug\net6.0\zadacha_64.runtimeconfig.json
+D:\Users\User\Desktop\Домашняя работа 9\zadacha_64\bin\Debug\net6.0\zadacha_64.dll
+D:\Users\User\Desktop\Домашняя работа 9\zadacha_64\bin\Debug\net6.0\zadacha_64.pdb
+D:\Users\User\Desktop\Домашняя работа 9\zadacha_64\obj\Debug\net6.0\zadacha_64.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\Домашняя работа 9\zadacha_64\obj\Debug\net6.0\zadacha_64.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\Домашняя работа 9\zadacha_64\obj\Debug\net6.0\zadacha_64.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\Домашняя работа 9\zadacha_64\obj\Debug\net6.0\zadacha_64.AssemblyInfo.cs
+D:\Users\User\Desktop\Домашняя работа 9\zadacha_64\obj\Debug\net6.0\zadacha_64.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\Домашняя работа 9\zadacha_64\obj\Debug\net6.0\zadacha_64.dll
+D:\Users\User\Desktop\Домашняя работа 9\zadacha_64\obj\Debug\net6.0\refint\zadacha_64.dll
+D:\Users\User\Desktop\Домашняя работа 9\zadacha_64\obj\Debug\net6.0\zadacha_64.pdb
+D:\Users\User\Desktop\Домашняя работа 9\zadacha_64\obj\Debug\net6.0\zadacha_64.genruntimeconfig.cache
+D:\Users\User\Desktop\Домашняя работа 9\zadacha_64\obj\Debug\net6.0\ref\zadacha_64.dll
